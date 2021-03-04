@@ -26,7 +26,7 @@ def main():
                 pass
 
     # Print sorted string
-    print("! {}".format(''.join(sortedstr), flush=True))
+    print("! {}".format(''.join(sortedstr)), flush=True)
         
 if __name__ == '__main__':
     main()
